@@ -1,7 +1,9 @@
 chopen-workshop-git
 ===================
 
-Git workshop for ch/open 2013
+Git workshop for ch/open 2013.
+
+All labs and materials will be published in dedicated [GitHub repository](https://github.com/ctpconsulting/chopen-workshop-git).
 
 Setup
 ===================
@@ -25,4 +27,4 @@ curl https://raw.github.com/ctpconsulting/chopen-workshop-git/master/git-shell >
 . ~/.bashrc
 ```
 
-Iif you don't want to use ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't however guarantee that all labs will be working smoothly, as we are going to test it only on the suggested environment
+Iif you don't want to use ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't however guarantee that all labs will be working smoothly, as we are going to test it only on the suggested environment.
