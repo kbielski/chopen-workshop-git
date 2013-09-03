@@ -16,7 +16,7 @@ We are also planning to practice some shell kung-fu therefore some Linux distrub
 
 We strongly recommend that you use [VirtualBox](https://www.virtualbox.org/wiki/Downloads) and [VM prepared by ch/open team](http://data.workshoptage.ch/images/ws16/)  (or [this Ubuntu image](http://sourceforge.net/projects/imagesvm/files/linux/ubuntu/12.04/2/lts/desktop/x64/) alternatively). If possible, assign at least 1 GB of RAM.
 
-We have prepared shell commands for Ubuntu distribution to get you started quickly. Just execute following in the shell (ctrl+alt+t):
+We have prepared shell commands for Ubuntu distribution to get you started quickly. Just execute following in the shell (CTRL+ALT+T):
 
 ```
 sudo add-apt-repository -y ppa:pdoes/ppa
@@ -27,4 +27,4 @@ curl https://raw.github.com/ctpconsulting/chopen-workshop-git/master/git-shell >
 . ~/.bashrc
 ```
 
-Iif you don't want to use ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't however guarantee that all labs will be working smoothly, as we are going to test it only on the suggested environment.
+If you don't want to use Ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't guarantee however that all labs will be working smoothly, as we are going to test it only on the suggested environment.
