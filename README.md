@@ -27,4 +27,10 @@ curl https://raw.github.com/ctpconsulting/chopen-workshop-git/master/git-shell >
 . ~/.bashrc
 ```
 
+Alternatively you can also execute
+
+```
+{ wget https://raw.github.com/ctpconsulting/chopen-workshop-git/master/install.sh -O install.sh; chmod u+x install.sh; ./install.sh; }
+```
+
 If you don't want to use Ubuntu please let us know upfront (foss@ctp.com) so we can give you advices for other environments. We can't guarantee however that all labs will be working smoothly, as we are going to test it only on the suggested environment.
