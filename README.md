@@ -38,5 +38,5 @@ Verification
 After running these commands you can verify that you have git installed by invoking
 ```
 $ git --version
-git version 1.8.3.2
+git version 1.8.4
 ```
