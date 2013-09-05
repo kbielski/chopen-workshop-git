@@ -16,7 +16,7 @@ We strongly recommend [VirtualBox](https://www.virtualbox.org/wiki/Downloads) an
 We have prepared shell commands for Ubuntu distribution to get you started quickly. Just execute following in the shell (CTRL+ALT+T):
 
 ```
-sudo add-apt-repository -y ppa:pdoes/ppa
+sudo add-apt-repository -y ppa:git-core/ppa
 sudo apt-get update
 sudo apt-get install -y curl tree meld git git-svn git-flow git-cola python-pyinotify
 curl -o ~/.git-prompt.sh https://raw.github.com/git/git/master/contrib/completion/git-prompt.sh
